@@ -1,0 +1,12 @@
+<project author="darkbull" blog="http://darkbull.net">
+  <node name="LinkedList" isDir="True" isExpand="True">
+    <node name="bin" isDir="True" isExpand="False" />
+    <node name="obj" isDir="True" isExpand="False" />
+    <node name="src" isDir="True" isExpand="True">
+      <node name="list.cxx" isDir="False" isExpand="False" />
+      <node name="list.hpp" isDir="False" isExpand="False" />
+      <node name="main.cpp" isDir="False" isExpand="False" />
+    </node>
+    <node name="makefile" isDir="False" isExpand="False" />
+  </node>
+</project>
