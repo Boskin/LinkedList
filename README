@@ -1,0 +1,10 @@
+Version: 1.0
+Author: Boskin Erkocevic
+
+Description
+This is a generic, usable linked list class that includes an iterator class that allows easy iterations
+through all of the list's elements.
+
+Compilation
+The GNU g++ compiler as well as the make utility are necessary for building the test application
+Simply direct a terminal window to the root directory and type "make."
